@@ -5,6 +5,6 @@ guide:
 http://legacyfiles.us.dlink.com/DI-604/REVE/DI-604_REVE_MANUAL_2.06_EN.PDF
 
 # my:
-login: http://10.0.100.2  # Will not work with https!
-user: admin
-pass: (blank)
+- login: http://10.0.1.2  # Will not work with https!
+- user: admin
+- pass: (blank)
